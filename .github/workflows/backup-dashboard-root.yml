@@ -15,6 +15,8 @@ on:
 jobs:
   export-and-push:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
