@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2026-02-13T23:10:12.406Z",
+  "exportedAt": "2026-02-14T06:56:38.895Z",
   "gerentes": [
     {
       "id": "acb36c8a-354e-471f-b6bb-a72b4b27b8b5",
@@ -43,7 +43,7 @@
       "biz": null,
       "notes": null,
       "created_at": "2026-02-13T14:18:48.744712+00:00",
-      "avatar_url": null
+      "avatar_url": "https://fsnolvozwcnbyuradiru.supabase.co/storage/v1/object/public/avatars/57e3d362-37f9-40e2-932b-ee1cd637ec92/avatar.jpeg?t=1771050289819"
     },
     {
       "id": "61bc8449-6b40-4cce-8cbf-3b925cdcc7b3",
