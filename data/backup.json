@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2026-02-15T06:59:30.175Z",
+  "exportedAt": "2026-02-16T07:14:15.150Z",
   "gerentes": [
     {
       "id": "acb36c8a-354e-471f-b6bb-a72b4b27b8b5",
@@ -29,6 +29,224 @@
   ],
   "clientes": [
     {
+      "id": "287b2f7e-cac8-4728-b3e1-8e7fdb0a77a7",
+      "name": "Edwin Pizarro",
+      "ig": null,
+      "phones": [
+        "+51 916 646 980"
+      ],
+      "emails": [],
+      "biz": null,
+      "notes": null,
+      "created_at": "2026-02-15T15:12:19.260649+00:00",
+      "avatar_url": null
+    },
+    {
+      "id": "aeb5b6e1-96e3-4b85-8059-03f2836fb762",
+      "name": "Manuel Solier",
+      "ig": null,
+      "phones": [
+        "+51 994 715 354"
+      ],
+      "emails": [
+        "Manuelsolier14@gmail.com"
+      ],
+      "biz": null,
+      "notes": null,
+      "created_at": "2026-02-15T15:10:45.762676+00:00",
+      "avatar_url": null
+    },
+    {
+      "id": "826bf4f1-70b0-4be5-9757-e1a48e19e3e2",
+      "name": "Renzo Cruz",
+      "ig": null,
+      "phones": [
+        "+51 981 349 643"
+      ],
+      "emails": [],
+      "biz": null,
+      "notes": null,
+      "created_at": "2026-02-15T15:08:56.558109+00:00",
+      "avatar_url": "https://fsnolvozwcnbyuradiru.supabase.co/storage/v1/object/public/avatars/826bf4f1-70b0-4be5-9757-e1a48e19e3e2/avatar.jpeg?t=1771189023161"
+    },
+    {
+      "id": "b3bb685a-a448-4c28-a950-1625ba1d8c2d",
+      "name": "Caleb Prado",
+      "ig": null,
+      "phones": [
+        "+51 955 259 206"
+      ],
+      "emails": [],
+      "biz": null,
+      "notes": null,
+      "created_at": "2026-02-15T15:04:19.622188+00:00",
+      "avatar_url": "https://media-lim1-1.cdn.whatsapp.net/v/t61.24694-24/550830285_3095595060613048_6246164627022151114_n.jpg?ccb=11-4&oh=01_Q5Aa3wEvWU9icr1Ld-EFBFxRmx6n16r5i5imQLlpOApLqOG8SA&oe=699EE801&_nc_sid=5e03e0&_nc_cat=104"
+    },
+    {
+      "id": "38838087-a726-4e11-b02e-303cd8e2ac63",
+      "name": "Yor Venencio",
+      "ig": null,
+      "phones": [
+        "+51 929 515 153"
+      ],
+      "emails": [],
+      "biz": null,
+      "notes": null,
+      "created_at": "2026-02-15T15:02:34.365702+00:00",
+      "avatar_url": "https://media-lim1-1.cdn.whatsapp.net/v/t61.24694-24/491876547_2223454861428033_2137376291189047637_n.jpg?ccb=11-4&oh=01_Q5Aa3wFhjXqKm6IVUuIv5Ivjq4XZAW_0JB7VQUtdjSBjQosWMw&oe=699EF4BF&_nc_sid=5e03e0&_nc_cat=105"
+    },
+    {
+      "id": "8abc66bf-46e0-4712-ad48-178f5cef78e2",
+      "name": "Maurycio Pury",
+      "ig": null,
+      "phones": [
+        "+56 9 9777 4640"
+      ],
+      "emails": [],
+      "biz": null,
+      "notes": null,
+      "created_at": "2026-02-15T15:01:38.308352+00:00",
+      "avatar_url": "https://media-lim1-1.cdn.whatsapp.net/v/t61.24694-24/539541041_1617193825922152_5788060917321908675_n.jpg?ccb=11-4&oh=01_Q5Aa3wEpM2trb77FX_ic1AtWSlIfkcakdNJAONuHlHvUbj6kbw&oe=699EFB02&_nc_sid=5e03e0&_nc_cat=107"
+    },
+    {
+      "id": "583f3ab8-508a-4a5c-9496-746afb9432cb",
+      "name": "Frank Naira",
+      "ig": null,
+      "phones": [
+        "+51 933 745 385"
+      ],
+      "emails": [],
+      "biz": null,
+      "notes": null,
+      "created_at": "2026-02-15T14:59:03.718458+00:00",
+      "avatar_url": "https://media-lim1-1.cdn.whatsapp.net/v/t61.24694-24/491875725_1162326459027285_1857558047042156838_n.jpg?ccb=11-4&oh=01_Q5Aa3wEBtaWI0yLYtpfAOltJlqMHMUBe6hDaW_Vgqpp05JNTYA&oe=699ED6C5&_nc_sid=5e03e0&_nc_cat=103"
+    },
+    {
+      "id": "fb508591-342f-44bd-829c-44beef2dd9b0",
+      "name": "Maxi Yano",
+      "ig": null,
+      "phones": [
+        "+54 9 2212 23-5259"
+      ],
+      "emails": [],
+      "biz": null,
+      "notes": null,
+      "created_at": "2026-02-15T14:58:33.571604+00:00",
+      "avatar_url": "https://media-lim1-1.cdn.whatsapp.net/v/t61.24694-24/627704573_25818787124447646_1714255937736068849_n.jpg?ccb=11-4&oh=01_Q5Aa3wGThyk3AuITMISHhtdnGqh0-K6BU9pksMv_FeVFJ1t_cQ&oe=699EF550&_nc_sid=5e03e0&_nc_cat=103"
+    },
+    {
+      "id": "a3128db4-e5ab-4e86-b2cb-360066e364e2",
+      "name": "Rafael Hernandez",
+      "ig": null,
+      "phones": [
+        "+51 991 212 761"
+      ],
+      "emails": [],
+      "biz": null,
+      "notes": null,
+      "created_at": "2026-02-15T14:57:52.290554+00:00",
+      "avatar_url": "https://media-lim1-1.cdn.whatsapp.net/v/t61.24694-24/463477986_8849891198365785_9052539672024743242_n.jpg?ccb=11-4&oh=01_Q5Aa3wGg49FkhybMgTo94B2Enb3EGNDrl-rS92p8ZUZOXDxCmA&oe=699EF7C5&_nc_sid=5e03e0&_nc_cat=110"
+    },
+    {
+      "id": "8191ad11-d421-4e5a-8758-91d93d22a4a5",
+      "name": "Yim Villar",
+      "ig": null,
+      "phones": [
+        "+51 955 732 297"
+      ],
+      "emails": [
+        "yimvillars@gmail.com"
+      ],
+      "biz": null,
+      "notes": null,
+      "created_at": "2026-02-15T14:48:23.48498+00:00",
+      "avatar_url": "https://media-lim1-1.cdn.whatsapp.net/v/t61.24694-24/583890447_2736599396679147_2220408902970819507_n.jpg?ccb=11-4&oh=01_Q5Aa3wHiVpcu4smaDt7rauQZGtE1VOubv0IX0Z-9pNCHGpuCNA&oe=699EDC1A&_nc_sid=5e03e0&_nc_cat=111"
+    },
+    {
+      "id": "d6121f78-5eb3-42e3-b8d8-e3727c434f2c",
+      "name": "Julio Lirio",
+      "ig": null,
+      "phones": [
+        "+51 987 783 201"
+      ],
+      "emails": [],
+      "biz": null,
+      "notes": null,
+      "created_at": "2026-02-15T14:46:37.239172+00:00",
+      "avatar_url": "https://media-lim1-1.cdn.whatsapp.net/v/t61.24694-24/558100086_1366412501860812_3451533596427649587_n.jpg?ccb=11-4&oh=01_Q5Aa3wGjH7JQVjYFSZx7N0CJHMdLMNqZYQph3INqhTU_zhs5gg&oe=699F0313&_nc_sid=5e03e0&_nc_cat=108"
+    },
+    {
+      "id": "0d093283-dc21-4508-a37b-e4057ea045d1",
+      "name": "Alex Barra",
+      "ig": null,
+      "phones": [
+        "+51 900 988 578"
+      ],
+      "emails": [
+        "Lucitaads@gmail.com"
+      ],
+      "biz": null,
+      "notes": null,
+      "created_at": "2026-02-15T14:45:22.364101+00:00",
+      "avatar_url": "https://media-lim1-1.cdn.whatsapp.net/v/t61.24694-24/549828297_1839025493370157_3667628868505889766_n.jpg?ccb=11-4&oh=01_Q5Aa3wGll3OAJJU3OVsOVxNEm11ehwKra3E4PIwCr3SFqcTYRw&oe=699EE7DB&_nc_sid=5e03e0&_nc_cat=102"
+    },
+    {
+      "id": "c58831c7-e58a-43ea-9bd8-00499d0aa78f",
+      "name": "Levi Aguirre",
+      "ig": null,
+      "phones": [
+        "+51 912 496 839"
+      ],
+      "emails": [],
+      "biz": null,
+      "notes": null,
+      "created_at": "2026-02-15T14:44:30.81472+00:00",
+      "avatar_url": null
+    },
+    {
+      "id": "63bdf982-43b2-411f-9410-64af4e5a527b",
+      "name": "Cainan Aguirre",
+      "ig": null,
+      "phones": [
+        "+51 927 736 962"
+      ],
+      "emails": [
+        "cjustoaguirre77@gmail.com"
+      ],
+      "biz": null,
+      "notes": null,
+      "created_at": "2026-02-15T14:41:26.095541+00:00",
+      "avatar_url": "https://media-lim1-1.cdn.whatsapp.net/v/t61.24694-24/620512208_839875089065803_8109148284188838814_n.jpg?ccb=11-4&oh=01_Q5Aa3wFxO6N-xyi7wep6GXrmhhREnKtMssjfqZdVo1GTSgIlCQ&oe=699F0748&_nc_sid=5e03e0&_nc_cat=100"
+    },
+    {
+      "id": "b4f5265d-b9ca-48eb-9313-abf5a2637477",
+      "name": "Luis Vargas",
+      "ig": null,
+      "phones": [
+        "+51 996 778 421"
+      ],
+      "emails": [],
+      "biz": null,
+      "notes": null,
+      "created_at": "2026-02-15T14:39:24.917643+00:00",
+      "avatar_url": "https://media-lim1-1.cdn.whatsapp.net/v/t61.24694-24/473394749_1203719028423466_2911240384385956689_n.jpg?ccb=11-4&oh=01_Q5Aa3wFjOGwl_gWfInBWU4OTvEfUwNPOwLlQ_A5Vr1Q5rlrwcw&oe=699EF82C&_nc_sid=5e03e0&_nc_cat=109"
+    },
+    {
+      "id": "29c3c7d2-26e3-450f-82bb-163b3b5dfdc2",
+      "name": "Camila Anchante",
+      "ig": null,
+      "phones": [
+        "+51 968 995 354"
+      ],
+      "emails": [
+        "florana.pe25@gmail.com"
+      ],
+      "biz": null,
+      "notes": null,
+      "created_at": "2026-02-15T14:37:23.846299+00:00",
+      "avatar_url": "https://media-lim1-1.cdn.whatsapp.net/v/t61.24694-24/540780657_710681435448941_610242467499910857_n.jpg?ccb=11-4&oh=01_Q5Aa3wH9B8_4z0KegKy_mqKXGsY8qZP_GHavGzoVTnmABv26ag&oe=699EEB78&_nc_sid=5e03e0&_nc_cat=107"
+    },
+    {
       "id": "57e3d362-37f9-40e2-932b-ee1cd637ec92",
       "name": "Jerson Artezano",
       "ig": null,
@@ -43,12 +261,12 @@
       "biz": null,
       "notes": null,
       "created_at": "2026-02-13T14:18:48.744712+00:00",
-      "avatar_url": "https://fsnolvozwcnbyuradiru.supabase.co/storage/v1/object/public/avatars/57e3d362-37f9-40e2-932b-ee1cd637ec92/avatar.jpeg?t=1771050289819"
+      "avatar_url": "https://media-lim1-1.cdn.whatsapp.net/v/t61.24694-24/534420611_1132588485644958_9159400337889587627_n.jpg?ccb=11-4&oh=01_Q5Aa3wHlFaI1xCR6Y4Lf6pDj7DBwPNjtQKI_4sM5Zmtq3S6tEA&oe=699EFF21&_nc_sid=5e03e0&_nc_cat=106"
     },
     {
       "id": "61bc8449-6b40-4cce-8cbf-3b925cdcc7b3",
       "name": "Ely Aguirre",
-      "ig": "lucho rosquilla",
+      "ig": "https://www.instagram.com/eliaguirre.io/",
       "phones": [
         "d"
       ],
@@ -58,7 +276,7 @@
       "biz": "dsa",
       "notes": null,
       "created_at": "2026-02-12T00:42:10.385746+00:00",
-      "avatar_url": null
+      "avatar_url": "https://media-lim1-1.cdn.whatsapp.net/v/t61.24694-24/491891693_2111680655994030_3888337618510310073_n.jpg?ccb=11-4&oh=01_Q5Aa3wF6h74Q-WBOTm9A1KwUVCvVpIsPj1zWfeaiknITZrE7fw&oe=699EDA3A&_nc_sid=5e03e0&_nc_cat=100"
     }
   ],
   "gastos": [
