@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2026-02-24T07:10:12.487Z",
+  "exportedAt": "2026-02-25T07:11:26.296Z",
   "gerentes": [
     {
       "id": "f98dae94-87b5-4e9b-b433-5876c415529e",
@@ -577,6 +577,20 @@
     }
   ],
   "gastos": [
+    {
+      "id": "86a3e584-8e4d-452c-b426-9ceec3409487",
+      "client_id": "e2981b93-c539-43c6-a799-8200cd7cfdcb",
+      "mes": "2026-02",
+      "camp": "borrar",
+      "gasto": 500,
+      "fee": 10,
+      "notas": null,
+      "created_at": "2026-02-25T04:32:02.853994+00:00",
+      "codigo": "G-M1JFHAE1DZ",
+      "created_by": "branlyn.lopez.r@gmail.com",
+      "prepago": false,
+      "fecha_movimiento": "2026-02-24"
+    },
     {
       "id": "7a257170-6533-4824-8c02-d2532e86bd23",
       "client_id": "35b02fad-605f-4fe8-8e94-338e29664554",
@@ -4797,7 +4811,7 @@
       "gasto_id": "a2eb7285-d1cf-41e4-ac89-4868b036301e",
       "codigo_verificacion": "GV-LXZCCNX3QF",
       "imagen_urls": [],
-      "fecha_colocacion": null,
+      "fecha_colocacion": "2026-01-01",
       "created_by": null
     },
     {
@@ -4825,7 +4839,7 @@
       "gasto_id": null,
       "codigo_verificacion": "GV-LXYS2QVX4M",
       "imagen_urls": [],
-      "fecha_colocacion": null,
+      "fecha_colocacion": "2026-01-01",
       "created_by": null
     },
     {
