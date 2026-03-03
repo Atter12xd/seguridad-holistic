@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2026-03-02T07:08:00.541Z",
+  "exportedAt": "2026-03-03T07:02:36.429Z",
   "gerentes": [
     {
       "id": "05d15b48-c8b2-443d-b02b-863b5daf9e37",
@@ -663,6 +663,34 @@
     }
   ],
   "gastos": [
+    {
+      "id": "953f4409-e99e-4ec7-9732-5b70bb91f8e1",
+      "client_id": "a3128db4-e5ab-4e86-b2cb-360066e364e2",
+      "mes": "2026-02",
+      "camp": "Rafael Hernandez 10.0 USD - Agencia",
+      "gasto": 145.79,
+      "fee": 10,
+      "notas": null,
+      "created_at": "2026-03-03T00:35:58.16566+00:00",
+      "codigo": "G-M9VMYUH8A8",
+      "created_by": "branlyn.lopez.r@gmail.com",
+      "prepago": false,
+      "fecha_movimiento": "2026-02-28"
+    },
+    {
+      "id": "f769f172-5648-4173-b203-c00ed37d5b5b",
+      "client_id": "a3128db4-e5ab-4e86-b2cb-360066e364e2",
+      "mes": "2026-02",
+      "camp": "Rafael Hernandez 11.0 USD - Agencia",
+      "gasto": 184.91,
+      "fee": 10,
+      "notas": null,
+      "created_at": "2026-03-03T00:35:22.217924+00:00",
+      "codigo": "G-M9VM720XKX",
+      "created_by": "branlyn.lopez.r@gmail.com",
+      "prepago": false,
+      "fecha_movimiento": "2026-02-28"
+    },
     {
       "id": "13579e33-e90d-45c6-900a-9236fc867f34",
       "client_id": "e5b90aaa-ddf3-47ce-901a-918813ddd7a7",
@@ -4486,7 +4514,8 @@
       "codigo": "C-M8JF6NVBGO",
       "comprobante_urls": [
         "cobros/430ef513-643c-49cf-ac72-2ff93d6c9f6d/eee0104c-d92e-4672-a5a4-37895c66b2f6.jpg"
-      ]
+      ],
+      "client_id": null
     },
     {
       "id": "7c6f2e62-dd56-4b14-9958-1a3285e5c8c7",
@@ -4501,7 +4530,8 @@
       "codigo": "C-M8JF5YGSJ9",
       "comprobante_urls": [
         "cobros/7c6f2e62-dd56-4b14-9958-1a3285e5c8c7/eb99443f-4cf4-4d60-9f5b-989244f03e41.jpg"
-      ]
+      ],
+      "client_id": null
     },
     {
       "id": "6f327a2e-930f-4ce6-90c4-f3c895113cc0",
@@ -4516,7 +4546,8 @@
       "codigo": "C-M8JF595L77",
       "comprobante_urls": [
         "cobros/6f327a2e-930f-4ce6-90c4-f3c895113cc0/6e05287f-8bc9-40fd-829e-7fba408bdb68.jpg"
-      ]
+      ],
+      "client_id": null
     },
     {
       "id": "8f85c79b-89bc-41b6-af97-1c5e415b57b6",
@@ -4531,7 +4562,8 @@
       "codigo": "C-M8JF4K0LI4",
       "comprobante_urls": [
         "cobros/8f85c79b-89bc-41b6-af97-1c5e415b57b6/3800812f-6b5a-4ecc-a752-cf6e6e998061.jpg"
-      ]
+      ],
+      "client_id": null
     },
     {
       "id": "22490210-aa6a-4a5a-b7a1-0e0661a95a66",
@@ -4546,7 +4578,8 @@
       "codigo": "C-M8J9MWEX6Q",
       "comprobante_urls": [
         "cobros/22490210-aa6a-4a5a-b7a1-0e0661a95a66/40bdeba9-7630-4580-896f-c7899c5cf4f1.jpg"
-      ]
+      ],
+      "client_id": null
     },
     {
       "id": "cfb5e135-95c5-4df9-8460-4e45ca95c2ab",
@@ -4561,7 +4594,8 @@
       "codigo": "C-M7UJZMZA7S",
       "comprobante_urls": [
         "cobros/cfb5e135-95c5-4df9-8460-4e45ca95c2ab/951444bc-1d7c-407c-bef9-929f7dff3234.jpg"
-      ]
+      ],
+      "client_id": null
     },
     {
       "id": "8b51e423-cc1d-4004-877d-4e17a6b31373",
@@ -4574,7 +4608,8 @@
       "created_by": "anniealejandrova6@gmail.com",
       "hora": null,
       "codigo": "C-LZQBCH8AIC",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "3ecffc24-6044-4501-8d18-bd72e150b8c1",
@@ -4587,7 +4622,8 @@
       "created_by": "anniealejandrova6@gmail.com",
       "hora": null,
       "codigo": "C-LZQBC1GU46",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "d811206c-f3d3-47c7-a5b2-5935be7d91b0",
@@ -4600,7 +4636,8 @@
       "created_by": "anniealejandrova6@gmail.com",
       "hora": null,
       "codigo": "C-LZQBBLMRNL",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "df9a7610-d2d4-4b77-9b77-da53d968e7f1",
@@ -4613,7 +4650,8 @@
       "created_by": "anniealejandrova6@gmail.com",
       "hora": null,
       "codigo": "C-LZKYUJIEZX",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "ea68b42c-3005-4d18-ac04-628912e28669",
@@ -4626,7 +4664,8 @@
       "created_by": "anniealejandrova6@gmail.com",
       "hora": null,
       "codigo": "C-LZKYTY7N58",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "db130d50-6481-4472-94d6-d51173c9ea42",
@@ -4639,7 +4678,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LYBXRU0RV2",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "d7b26637-c496-4eef-b6e6-ac95a5a7a115",
@@ -4652,7 +4692,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LYBXREJCRE",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "0d008c5f-d95e-4e38-b88d-5957f072af0c",
@@ -4665,7 +4706,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LYBXQWVXOG",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "ba3b741e-50ae-4685-9578-acb25b406ba0",
@@ -4678,7 +4720,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LYBXQ3V2G0",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "b27c3d27-593c-4dc5-bcf9-e50bb189bfbf",
@@ -4691,7 +4734,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LYBX8CNQK6",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "642d8064-057b-4542-a464-2ef1507ca737",
@@ -4704,7 +4748,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LYBX7TJTK7",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "7ef7fc69-337f-4890-833a-31d070bdb06a",
@@ -4717,7 +4762,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LYBRVZMRZV",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "d14fc92e-5ea9-431f-9030-b863b55bc0f0",
@@ -4730,7 +4776,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LYBRVJ6UYB",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "33dc1a90-e939-4b5f-8b6c-49f29b6e13de",
@@ -4743,7 +4790,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LYBRV0IZE2",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "413aff89-3353-41e5-9732-ec5e2ba3b275",
@@ -4756,7 +4804,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LYBOB5MBFT",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "511580a9-b78c-4f65-ac6f-b57aa3b69e2f",
@@ -4769,7 +4818,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LYBOANDHEG",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "39208b26-029a-471a-9b09-c7cc1c76eaaa",
@@ -4782,7 +4832,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LYBGXQQD5Y",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "11e078bc-2924-4ac2-9954-1331d3563f75",
@@ -4795,7 +4846,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LYBGX8XR4F",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "24fce94c-f63c-4a92-8cfc-70c912a1bd3a",
@@ -4808,7 +4860,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LYBGWN0IOZ",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "4bb5ca2a-26a9-4a13-8615-ce8de432683d",
@@ -4821,7 +4874,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LY7B64HGPQ",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "3eca328d-8b15-4863-9a23-d4fc69f0641b",
@@ -4834,7 +4888,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LY7B5PQ7XQ",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "373669f2-4603-4816-b935-7688712f65ef",
@@ -4847,7 +4902,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LY7B5A3PHR",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "ba68d16f-8dd0-49ce-a6ed-2879f83021a2",
@@ -4860,7 +4916,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LY7B4UQZ0H",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "ff6bf79e-5a58-402f-b6f0-f27fa2913375",
@@ -4873,7 +4930,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LY7B4GPXEF",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "05024d5e-dd04-4bab-8e0d-84ab10df3c92",
@@ -4886,7 +4944,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LY7B3Z6XLD",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "31c48043-8629-4799-b08f-4771ce10cc21",
@@ -4899,7 +4958,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LY7B3ISPCG",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "d0a7edbe-727f-40d6-b377-d926e221e236",
@@ -4912,7 +4972,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LY7B32TDCL",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "6a11cb2b-77b1-4d71-af24-8f9a21079b38",
@@ -4925,7 +4986,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LY7B2OAX3M",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "3a46d8a1-9d33-4b3a-a52a-c15657e02555",
@@ -4938,7 +5000,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LY7B29DE7U",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "998ae8ef-af24-4487-a9a3-f9419c18f121",
@@ -4951,7 +5014,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LY7B1TIE7M",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "f3e33390-8b20-44d2-9727-a26a2f821272",
@@ -4964,7 +5028,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LY7B1DVAQQ",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "693dddbd-2b0a-4737-8986-d138d358f249",
@@ -4977,7 +5042,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LY7B0Y2BKR",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "26d1b2f4-aaf9-4696-9935-e0ab42681694",
@@ -4990,7 +5056,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LY7B0IDOON",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "71ea1dc7-e84c-4497-89bd-9139586d7c8d",
@@ -5003,7 +5070,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LY7AZTLU7T",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "0c4f78cd-40e5-49e6-a00c-fec7d24cab62",
@@ -5016,7 +5084,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LY7AZCZAQT",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "62d011ea-d37b-4528-9497-d0001148b14d",
@@ -5029,7 +5098,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LY7AYY3W7I",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "597ff2bf-f907-43f8-8d22-d8cf36951b96",
@@ -5042,7 +5112,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LY7AYK4Q3M",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "4431d0a8-c99e-488d-87be-2ded1fe14aec",
@@ -5055,7 +5126,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LY7AY6CHF1",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "6f586ac8-5a33-4f7d-a1ee-022aabe2d5e6",
@@ -5068,7 +5140,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LY7AXQDAL6",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "72e86846-fd8c-4ae5-9c9d-e3e2a4a59c94",
@@ -5081,7 +5154,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LY7AX9I0BV",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "efb5c39b-a48b-4dcb-8ffc-45409b3a797e",
@@ -5094,7 +5168,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LY7AWU2JX3",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "d070b841-4caf-4b53-90e6-fd6f3f3badcf",
@@ -5107,7 +5182,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LY7AWDOMUD",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "d72bbe8a-c64f-4689-b575-1c00a8b26712",
@@ -5120,7 +5196,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LY7AVWC1VY",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "c0cbaf24-0783-4b63-8491-95bff52483ac",
@@ -5133,7 +5210,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LY77YMKMF5",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "ec44c382-1953-4ddc-b870-65324d4fab00",
@@ -5146,7 +5224,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LY77Y80WR2",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "19041b45-c38c-4d74-b951-ef46b72d5a94",
@@ -5159,7 +5238,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LY77XTNOP8",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "f5672d94-f686-4111-8028-610a83ee251b",
@@ -5172,7 +5252,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LY77XBNCCL",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "ba50c255-4c67-41f9-bb93-a4b4a7fb27dd",
@@ -5185,7 +5266,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LY77WVS9U5",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "b782732f-77ca-495e-b5ba-7449c74685db",
@@ -5198,7 +5280,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LY77WGNL8U",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "ccff19aa-21f5-44b6-88b9-4233fe466b5d",
@@ -5211,7 +5294,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LY77W1RHTK",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "e2ff72e5-5a37-4516-9443-b0463426e459",
@@ -5224,7 +5308,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LY77VMYZSV",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "5806c9d8-5fbb-44cb-9509-c53c48f73896",
@@ -5237,7 +5322,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LY77V8QXIP",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "578a4fde-27c2-4a84-b8bf-998eee097df7",
@@ -5250,7 +5336,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LY77UUFAH9",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "18e4ba3f-01a4-4a32-8686-374c0b9ffdc0",
@@ -5263,7 +5350,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LY77UFJL1I",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "53e5738f-2198-4478-bb35-b7b7774fe1ac",
@@ -5276,7 +5364,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LY77U0AN14",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "53978510-ca14-44f7-997f-22e48a073b9f",
@@ -5289,7 +5378,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LY77TL9MD0",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "e2dc11b8-899b-4a77-807b-35ae62b194d2",
@@ -5302,7 +5392,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LY77T6N9P1",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "bae7aa31-e86a-468e-aee5-ca233e19451a",
@@ -5315,7 +5406,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LY77SPRYSR",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "be2f2c32-cf19-4d79-9662-43a1389ad9e3",
@@ -5328,7 +5420,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LY77S9J7UO",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "64d12034-15cc-4f89-bff2-50c7fec5ff15",
@@ -5341,7 +5434,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LY77RTEK3I",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "77d4f175-8c84-4343-9beb-8bb0d82686c0",
@@ -5354,7 +5448,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LY77RCWUTV",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "ae44a436-df99-413a-bb50-1331492fde8a",
@@ -5367,7 +5462,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LY77QWFA3F",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "9fe9e930-778c-4ed2-adfb-7e1243e54617",
@@ -5380,7 +5476,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LY77QGTV2L",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "edb2ad09-9004-4632-8041-fdf5886cf6d0",
@@ -5393,7 +5490,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LY77Q1Z0DR",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "31097733-74ee-4ce0-9739-f76b55cecd49",
@@ -5406,7 +5504,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LY77PN3TO0",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "1e808f4b-0d8e-412e-91ce-de2f0a44ecee",
@@ -5419,7 +5518,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LY77P4JOYL",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "2878f3d3-3cfa-4d7d-a275-eb73d41f9a34",
@@ -5432,7 +5532,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LY77ODG5D8",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "f85c03d5-c789-4fdf-a237-861ab65cdacc",
@@ -5445,7 +5546,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LY57JK6ID6",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "7e01b26b-8842-4b9f-b1b6-f9f76c3660eb",
@@ -5458,7 +5560,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LY57J2TA2B",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "6374e038-aa73-400b-955c-ef960e678aeb",
@@ -5471,7 +5574,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LY57INLA0L",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "2115906a-bed4-4ce7-b5ad-e29272d88af6",
@@ -5484,7 +5588,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LY57I8HSE8",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "42300ac7-f9ad-4eea-916d-e0fdf479eeaf",
@@ -5497,7 +5602,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LY57HR2NIT",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "53c5860a-fdf4-4be0-84fb-d9937a26c614",
@@ -5514,7 +5620,8 @@
         "cobros/53c5860a-fdf4-4be0-84fb-d9937a26c614/bc345322-6ed6-4da7-8703-fa112d5e54c8.jpg",
         "cobros/53c5860a-fdf4-4be0-84fb-d9937a26c614/f74bfb8c-eada-4d60-a4bb-d668e1250b46.jpg",
         "cobros/53c5860a-fdf4-4be0-84fb-d9937a26c614/99cef5b5-4598-40fe-9a11-9a65608ae82b.jpg"
-      ]
+      ],
+      "client_id": null
     },
     {
       "id": "34b3ff10-9222-4d73-a192-fe750dc1613f",
@@ -5531,7 +5638,8 @@
         "cobros/34b3ff10-9222-4d73-a192-fe750dc1613f/9a9855b9-69d0-4c9b-80a5-c3e99b6c5b01.jpg",
         "cobros/34b3ff10-9222-4d73-a192-fe750dc1613f/2966c08b-6a95-44a3-822e-319e431528e4.jpg",
         "cobros/34b3ff10-9222-4d73-a192-fe750dc1613f/d0395575-ffb2-4efe-8538-c913e2fdaec1.jpg"
-      ]
+      ],
+      "client_id": null
     },
     {
       "id": "69fd7882-ee4b-40c0-924b-9e020e79802e",
@@ -5544,7 +5652,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LY4PNDIE79",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "6bc6c4c8-e592-41b3-aba1-cc1a33b1c2a4",
@@ -5557,7 +5666,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LY4PMXBU8Z",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "3ef75498-e42f-41e8-be9e-41b6d2122a46",
@@ -5570,7 +5680,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LY4PMGEF4E",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "5a94031e-0f0a-4004-8dcc-87cbe68396b2",
@@ -5583,7 +5694,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LY4PM1ZSP3",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "979eee14-04a5-4e2a-b9fe-6dc5336975aa",
@@ -5596,7 +5708,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LY4PLN90M5",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "5be7b589-442e-4879-bea1-5102180eb503",
@@ -5609,7 +5722,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LY4PL68Q9U",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "55509726-cab4-4571-a782-f9adc1c3b9d4",
@@ -5622,7 +5736,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LY4OQYUG0G",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "f692522e-acae-4f04-a6fd-870fb42ca0f9",
@@ -5635,7 +5750,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LY4OQK0CIX",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "3270a04e-30c1-4545-869c-e8a028dd6e6d",
@@ -5648,7 +5764,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LY4OQ3GKHV",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "0723aa91-5569-4af5-841c-9515ffbf3126",
@@ -5663,7 +5780,8 @@
       "codigo": "C-LY3SGGAH4F",
       "comprobante_urls": [
         "cobros/0723aa91-5569-4af5-841c-9515ffbf3126/1840d52e-82fd-4dbb-b53d-7b204715576a.jpg"
-      ]
+      ],
+      "client_id": null
     },
     {
       "id": "1284f032-5d92-4f94-a83d-2e760c9008c4",
@@ -5676,7 +5794,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LY3BUL6329",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "b7fb8789-6fc6-4c83-badb-01e3a62f0c15",
@@ -5689,7 +5808,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LY3BU4QUUF",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "6278ccad-890c-401f-9cd0-dc7aa8a9313c",
@@ -5702,7 +5822,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LY3BTOR5AQ",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "589f7549-0ebe-43aa-adc1-c55ead4cea51",
@@ -5715,7 +5836,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LY3BT60II3",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "f5ce13b2-ee45-4c8d-9e1f-941c37cf80fe",
@@ -5728,7 +5850,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LY3A230VK0",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "d7b27a99-fc5f-4191-bd51-7bb5ae9980c5",
@@ -5741,7 +5864,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LY3A1O6URE",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "bbc2aeb6-5135-4b59-b93f-c3cbfa1f849b",
@@ -5754,7 +5878,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LY3A18L0TB",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "ef0336ee-5f7c-4bfd-9554-c55e14f0edff",
@@ -5767,7 +5892,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LY3A0SG44O",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "333968b0-4e25-4d1e-9417-a5ca98479974",
@@ -5780,7 +5906,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LY3A0CPFJ8",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "f36606ba-25d7-49b2-b6d1-94f7a073418a",
@@ -5793,7 +5920,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LY39ZX9U31",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "949a865f-d7f1-4677-8d2b-fbf7303698c1",
@@ -5806,7 +5934,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LY39ZHB5Q0",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "194640a4-d4da-4533-8e52-8c567ea61c11",
@@ -5819,7 +5948,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LY39YSB8CA",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "d4882813-837d-43ab-b5d5-a823dab151af",
@@ -5832,7 +5962,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LY2S6NKT0R",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "5ded6bb1-90bb-41c7-b40c-ae17e4ddd322",
@@ -5845,7 +5976,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LY2S692QPV",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "3b4729ce-a5e6-493b-a270-db93eff0b1f7",
@@ -5858,7 +5990,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LY2S5VP5MC",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "7254ed3f-c525-47ec-b98c-3e5f1dabc455",
@@ -5871,7 +6004,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LY2S5ILY18",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "faec3307-984b-4f1b-9adf-ddfb05a253a8",
@@ -5884,7 +6018,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LY2S53Q2N1",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "29788eca-de5b-42ef-8e0e-bad8dbd9000f",
@@ -5897,7 +6032,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LY2S4OYVLC",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "b51b6746-ea53-4e54-885b-6e25934e09c0",
@@ -5910,7 +6046,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LY2S4AS510",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "787bc3a1-7085-4a09-9ffd-efeaf58c7c31",
@@ -5923,7 +6060,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LY2S3W9Z4F",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "40ef63a0-81ef-49ff-a999-814f92567e32",
@@ -5936,7 +6074,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LY2S3BY5W5",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "7098f600-54c8-4b3f-ba3f-4f99e78f58f0",
@@ -5949,7 +6088,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LY2LERXNAH",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "34905353-2b48-4b6c-bf2c-78f69644359e",
@@ -5962,7 +6102,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LY2LEBGA7W",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "1c02f2fd-255a-4048-9278-15e8882187c5",
@@ -5975,7 +6116,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LY2LDTMIRO",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "2f2c869c-54e2-4671-8480-31f8dbf8a291",
@@ -5988,7 +6130,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LY2KBN0Q4E",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "ee4a1809-6354-4279-9688-44c7b97e1d7e",
@@ -6001,7 +6144,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LY2KAZFHCW",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "5afad197-36d9-4e38-a00b-25bb04e42542",
@@ -6014,7 +6158,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LY2EAIPK5A",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "ce502c28-5329-4fe1-ad21-15160be42230",
@@ -6029,7 +6174,8 @@
       "codigo": "C-LY105ILAAT",
       "comprobante_urls": [
         "cobros/ce502c28-5329-4fe1-ad21-15160be42230/2c14a95b-0afe-4e4b-88e7-ada22f7b2d7f.jpg"
-      ]
+      ],
+      "client_id": null
     },
     {
       "id": "a1ba9ea2-5f0b-4798-b13b-549c4becfcbe",
@@ -6044,7 +6190,8 @@
       "codigo": "C-LY104Z1EK1",
       "comprobante_urls": [
         "cobros/a1ba9ea2-5f0b-4798-b13b-549c4becfcbe/42fb5ab0-ea26-4eda-b7a9-19f4d868aa7b.jpg"
-      ]
+      ],
+      "client_id": null
     },
     {
       "id": "462c4e82-813b-4eff-9726-93f26fb3d65f",
@@ -6057,7 +6204,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LY0XL2OLFL",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "5f67b9fe-5cf7-4667-ae25-8b7bf74c39fa",
@@ -6070,7 +6218,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LY0XK8LU9R",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "f8327a3b-270e-48ab-bb71-6b81a265806e",
@@ -6083,7 +6232,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LXZUF2N7Z7",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "33fa2c1d-9650-4f54-bc82-ca2e9ba4fdde",
@@ -6096,7 +6246,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LXZBXQZMG4",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "35ed66d8-ae83-4bd4-b05c-82165d5f909e",
@@ -6109,7 +6260,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LXZ1JBRW7D",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "c9ac0ae9-4a03-480a-8937-b97e9fcf39f1",
@@ -6122,7 +6274,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LXZ1ISF1YI",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "2b08c805-0e3e-4114-aca2-50a635aed122",
@@ -6135,7 +6288,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LXXUC63TMC",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "4bbed323-7db5-44f7-85e0-c0bb9c529f67",
@@ -6148,7 +6302,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LXXUBRBLH5",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "7755a749-46e1-4dfa-92dc-bfb637494f51",
@@ -6161,7 +6316,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LXXUBBTLTY",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "c710face-9bfd-4c63-ae5f-c79327634d63",
@@ -6174,7 +6330,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LXXUAIZP7S",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "a0cee905-c00d-4a8f-abf2-ae992a8473ae",
@@ -6187,7 +6344,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LXXNTL0BKP",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "80430143-f1ca-4fc5-924e-ed74aad54585",
@@ -6200,7 +6358,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LXXNT5B618",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "f15c113e-51e0-40de-8b25-a31f80c5697a",
@@ -6213,7 +6372,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LXXNSRMPEM",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "9cd5ed77-d63a-4ba9-999f-11229bb6fc30",
@@ -6226,7 +6386,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LXXNSCXIZA",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "04165b18-c4ee-424d-8aed-0fdfd98b3e49",
@@ -6239,7 +6400,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LXXNRW4XAS",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "a0faf759-b1e8-4888-93a5-27605c8e2c4c",
@@ -6252,7 +6414,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LXXNRDTRK9",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "080fc72d-509f-4cfa-8802-73862dd69608",
@@ -6265,7 +6428,8 @@
       "created_by": "branlyn.lopez.r@gmail.com",
       "hora": null,
       "codigo": "C-LXXNQUYFRB",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     },
     {
       "id": "88e125f0-b3c3-4992-a8eb-1f1bcf128efe",
@@ -6278,7 +6442,8 @@
       "created_by": "anniealejandrova6@gmail.com",
       "hora": null,
       "codigo": "C-LV8GHQ1RBR",
-      "comprobante_urls": []
+      "comprobante_urls": [],
+      "client_id": null
     }
   ],
   "garantias": [
