@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2026-03-03T07:02:36.429Z",
+  "exportedAt": "2026-03-04T06:58:54.824Z",
   "gerentes": [
     {
       "id": "05d15b48-c8b2-443d-b02b-863b5daf9e37",
@@ -1397,7 +1397,7 @@
       "mes": "2026-02",
       "camp": "Dam Aguirre 14.0 USD - Agencia",
       "gasto": 9.48,
-      "fee": 10,
+      "fee": 9,
       "notas": null,
       "created_at": "2026-03-02T01:36:20.655728+00:00",
       "codigo": "G-M8ICSA98IQ",
@@ -1411,7 +1411,7 @@
       "mes": "2026-02",
       "camp": "Dam Aguirre 18.0 USD - Agencia",
       "gasto": 29.81,
-      "fee": 10,
+      "fee": 9,
       "notas": null,
       "created_at": "2026-03-02T01:35:42.053542+00:00",
       "codigo": "G-M8IBYHOESY",
@@ -1425,7 +1425,7 @@
       "mes": "2026-02",
       "camp": "Dam Aguirre 12.0 USD - Agencia",
       "gasto": 76.79,
-      "fee": 10,
+      "fee": 9,
       "notas": null,
       "created_at": "2026-03-02T01:35:03.768673+00:00",
       "codigo": "G-M8IB4Z5R2D",
@@ -1439,7 +1439,7 @@
       "mes": "2026-02",
       "camp": "Dam Aguirre 21.0 USD - Agencia",
       "gasto": 196.94,
-      "fee": 10,
+      "fee": 9,
       "notas": null,
       "created_at": "2026-03-02T01:34:25.533521+00:00",
       "codigo": "G-M8IABG3X7H",
@@ -1453,7 +1453,7 @@
       "mes": "2026-02",
       "camp": "Dam Aguirre 16.0 USD - Agencia",
       "gasto": 390.64,
-      "fee": 10,
+      "fee": 9,
       "notas": null,
       "created_at": "2026-03-02T01:33:47.223119+00:00",
       "codigo": "G-M8I9HW9WPQ",
@@ -1467,7 +1467,7 @@
       "mes": "2026-02",
       "camp": "Dam Aguirre 15.0 USD - Agencia",
       "gasto": 492.78,
-      "fee": 10,
+      "fee": 9,
       "notas": null,
       "created_at": "2026-03-02T01:33:08.77912+00:00",
       "codigo": "G-M8I8O86M3T",
@@ -1481,7 +1481,7 @@
       "mes": "2026-02",
       "camp": "Dam Aguirre 20.0 USD - Agencia",
       "gasto": 500.77,
-      "fee": 10,
+      "fee": 9,
       "notas": null,
       "created_at": "2026-03-02T01:32:30.339247+00:00",
       "codigo": "G-M8I7UKOSEI",
@@ -1495,7 +1495,7 @@
       "mes": "2026-02",
       "camp": "Dam Aguirre 19.0 USD - Agencia",
       "gasto": 1202.94,
-      "fee": 10,
+      "fee": 9,
       "notas": null,
       "created_at": "2026-03-02T01:31:51.846316+00:00",
       "codigo": "G-M8I70TCOX9",
@@ -1509,7 +1509,7 @@
       "mes": "2026-02",
       "camp": "Dam Aguirre 13.0 USD - Agencia",
       "gasto": 1344.43,
-      "fee": 10,
+      "fee": 9,
       "notas": null,
       "created_at": "2026-03-02T01:31:13.839468+00:00",
       "codigo": "G-M8I6777XED",
@@ -1523,7 +1523,7 @@
       "mes": "2026-02",
       "camp": "Dam Aguirre 23.0 USD - Agencia",
       "gasto": 1377.23,
-      "fee": 10,
+      "fee": 9,
       "notas": null,
       "created_at": "2026-03-02T01:30:34.719327+00:00",
       "codigo": "G-M8I5DDYT4Z",
@@ -1537,7 +1537,7 @@
       "mes": "2026-02",
       "camp": "Dam Aguirre 22.0 USD - Agencia",
       "gasto": 3053.81,
-      "fee": 10,
+      "fee": 9,
       "notas": null,
       "created_at": "2026-03-02T01:29:56.304701+00:00",
       "codigo": "G-M8I4JPWLK1",
@@ -1551,7 +1551,7 @@
       "mes": "2026-02",
       "camp": "Dam Aguirre 17.0 USD - Agencia",
       "gasto": 3180.82,
-      "fee": 10,
+      "fee": 9,
       "notas": null,
       "created_at": "2026-03-02T01:29:17.796397+00:00",
       "codigo": "G-M8I3Q0G6CA",
@@ -1887,7 +1887,7 @@
       "mes": "2026-02",
       "camp": "Jerson Artezano 118.0 USD - Agencia",
       "gasto": 16.37,
-      "fee": 5,
+      "fee": 8,
       "notas": null,
       "created_at": "2026-03-01T21:19:39.855873+00:00",
       "codigo": "G-M896OCGME6",
@@ -1901,7 +1901,7 @@
       "mes": "2026-02",
       "camp": "Jerson Artezano 112.0 USD - Agencia",
       "gasto": 230.87,
-      "fee": 5,
+      "fee": 8,
       "notas": null,
       "created_at": "2026-03-01T21:19:17.936715+00:00",
       "codigo": "G-M8967EI9DJ",
@@ -1915,7 +1915,7 @@
       "mes": "2026-02",
       "camp": "Jerson Artezano 121.0 USD - Agencia",
       "gasto": 239.44,
-      "fee": 5,
+      "fee": 8,
       "notas": null,
       "created_at": "2026-03-01T21:18:11.120896+00:00",
       "codigo": "G-M894RW008N",
@@ -1929,7 +1929,7 @@
       "mes": "2026-02",
       "camp": "Jerson Artezano 111.0 USD - Agencia",
       "gasto": 325.07,
-      "fee": 5,
+      "fee": 8,
       "notas": null,
       "created_at": "2026-03-01T21:05:52.340056+00:00",
       "codigo": "G-M88OXPN56J",
@@ -1943,7 +1943,7 @@
       "mes": "2026-02",
       "camp": "Jerson Artezano 122.0 USD - Agencia",
       "gasto": 781.5,
-      "fee": 5,
+      "fee": 8,
       "notas": null,
       "created_at": "2026-03-01T21:05:28.201637+00:00",
       "codigo": "G-M88OF83YEL",
@@ -1957,7 +1957,7 @@
       "mes": "2026-02",
       "camp": "Jerson Artezano 119.0 USD - Agencia",
       "gasto": 1041.16,
-      "fee": 5,
+      "fee": 8,
       "notas": null,
       "created_at": "2026-03-01T21:05:03.433419+00:00",
       "codigo": "G-M88NW3WQ52",
@@ -1971,7 +1971,7 @@
       "mes": "2026-02",
       "camp": "Jerson Artezano 123.0 USD - Agencia",
       "gasto": 1276.53,
-      "fee": 5,
+      "fee": 8,
       "notas": null,
       "created_at": "2026-03-01T21:02:21.441443+00:00",
       "codigo": "G-M88KEY3KR1",
@@ -1985,7 +1985,7 @@
       "mes": "2026-02",
       "camp": "Jerson Artezano 120.0 USD - Agencia",
       "gasto": 1537.67,
-      "fee": 5,
+      "fee": 8,
       "notas": null,
       "created_at": "2026-03-01T21:01:57.022258+00:00",
       "codigo": "G-M88JW8WRDU",
@@ -1999,7 +1999,7 @@
       "mes": "2026-02",
       "camp": "Jerson Artezano 13.0 USD - Agencia",
       "gasto": 0.09,
-      "fee": 5,
+      "fee": 8,
       "notas": null,
       "created_at": "2026-03-01T20:51:06.740944+00:00",
       "codigo": "G-M885YI7DPK",
@@ -2013,7 +2013,7 @@
       "mes": "2026-02",
       "camp": "Jerson Artezano 24.0 USD - Agencia",
       "gasto": 8.72,
-      "fee": 5,
+      "fee": 8,
       "notas": null,
       "created_at": "2026-03-01T20:50:41.762624+00:00",
       "codigo": "G-M885F8ESF1",
@@ -2027,7 +2027,7 @@
       "mes": "2026-02",
       "camp": "Jerson Artezano 34.0 USD - Agencia ",
       "gasto": 89.87,
-      "fee": 5,
+      "fee": 8,
       "notas": null,
       "created_at": "2026-03-01T20:50:16.485393+00:00",
       "codigo": "G-M884VQHAO6",
@@ -2041,7 +2041,7 @@
       "mes": "2026-02",
       "camp": "Jerson Artezano 31.0 USD - Agencia",
       "gasto": 241.1,
-      "fee": 5,
+      "fee": 8,
       "notas": null,
       "created_at": "2026-03-01T20:49:51.475606+00:00",
       "codigo": "G-M884CENKVD",
@@ -2055,7 +2055,7 @@
       "mes": "2026-02",
       "camp": "Jerson Artezano 28.0 USD - Agencia",
       "gasto": 294.82,
-      "fee": 5,
+      "fee": 8,
       "notas": null,
       "created_at": "2026-03-01T20:49:26.267942+00:00",
       "codigo": "G-M883SZDRPY",
@@ -2069,7 +2069,7 @@
       "mes": "2026-02",
       "camp": "Jerson Artezano 12.0 USD - Agencia",
       "gasto": 634.65,
-      "fee": 5,
+      "fee": 8,
       "notas": null,
       "created_at": "2026-03-01T20:49:01.370074+00:00",
       "codigo": "G-M8839RUM5C",
@@ -2083,7 +2083,7 @@
       "mes": "2026-02",
       "camp": "Jerson Artezano 26.0 USD - Agencia",
       "gasto": 750.44,
-      "fee": 5,
+      "fee": 8,
       "notas": null,
       "created_at": "2026-03-01T20:48:36.607246+00:00",
       "codigo": "G-M882QNHO5V",
@@ -2097,7 +2097,7 @@
       "mes": "2026-02",
       "camp": "Jerson Artezano 32.0 USD - Agencia",
       "gasto": 824.65,
-      "fee": 5,
+      "fee": 8,
       "notas": null,
       "created_at": "2026-03-01T20:48:11.246171+00:00",
       "codigo": "G-M882725C0S",
@@ -2111,7 +2111,7 @@
       "mes": "2026-02",
       "camp": "Jerson Artezano 18.0 USD - Agencia",
       "gasto": 999.67,
-      "fee": 5,
+      "fee": 8,
       "notas": null,
       "created_at": "2026-03-01T20:47:46.056171+00:00",
       "codigo": "G-M881NMIZWZ",
@@ -2125,7 +2125,7 @@
       "mes": "2026-02",
       "camp": "Jerson Artezano 20.0 USD - Agencia",
       "gasto": 1036.29,
-      "fee": 5,
+      "fee": 8,
       "notas": null,
       "created_at": "2026-03-01T20:47:20.909628+00:00",
       "codigo": "G-M88148KGO3",
@@ -2139,7 +2139,7 @@
       "mes": "2026-02",
       "camp": "Jerson Artezano 23.0 USD - Agencia",
       "gasto": 1181.52,
-      "fee": 5,
+      "fee": 8,
       "notas": null,
       "created_at": "2026-03-01T20:46:55.38996+00:00",
       "codigo": "G-M880KL3DUL",
@@ -2153,7 +2153,7 @@
       "mes": "2026-02",
       "camp": "Jerson Artezano 21.0 USD - Agencia",
       "gasto": 1570.09,
-      "fee": 5,
+      "fee": 8,
       "notas": null,
       "created_at": "2026-03-01T20:46:30.628369+00:00",
       "codigo": "G-M8801GUZC7",
@@ -2167,7 +2167,7 @@
       "mes": "2026-02",
       "camp": "Jerson Artezano 25.0 USD - Agencia",
       "gasto": 1864.05,
-      "fee": 5,
+      "fee": 8,
       "notas": null,
       "created_at": "2026-03-01T20:46:05.582271+00:00",
       "codigo": "G-M87ZI4FLFX",
@@ -2181,7 +2181,7 @@
       "mes": "2026-02",
       "camp": "Jerson Artezano 10.0 USD - Agencia",
       "gasto": 2156.15,
-      "fee": 5,
+      "fee": 8,
       "notas": null,
       "created_at": "2026-03-01T20:45:40.721117+00:00",
       "codigo": "G-M87YYX9VRT",
@@ -2195,7 +2195,7 @@
       "mes": "2026-02",
       "camp": "Jerson Artezano 22.0 USD - Agencia",
       "gasto": 2323.06,
-      "fee": 5,
+      "fee": 8,
       "notas": null,
       "created_at": "2026-03-01T20:45:13.7287+00:00",
       "codigo": "G-M87YE4DM6H",
@@ -2209,7 +2209,7 @@
       "mes": "2026-02",
       "camp": "Jerson Artezano 15.0 USD - Agencia",
       "gasto": 2417.13,
-      "fee": 5,
+      "fee": 8,
       "notas": null,
       "created_at": "2026-03-01T20:44:48.889043+00:00",
       "codigo": "G-M87XUWCDBF",
@@ -2223,7 +2223,7 @@
       "mes": "2026-02",
       "camp": "Jerson Artezano 16.0 USD - Agencia",
       "gasto": 2589.95,
-      "fee": 5,
+      "fee": 8,
       "notas": null,
       "created_at": "2026-03-01T20:44:23.469545+00:00",
       "codigo": "G-M87XB5ZP5G",
@@ -2237,7 +2237,7 @@
       "mes": "2026-02",
       "camp": "Jerson Artezano 17.0 USD - Agencia",
       "gasto": 2854.51,
-      "fee": 5,
+      "fee": 8,
       "notas": null,
       "created_at": "2026-03-01T20:43:57.830911+00:00",
       "codigo": "G-M87WRKP9PZ",
@@ -2251,7 +2251,7 @@
       "mes": "2026-02",
       "camp": "Jerson Artezano 11.0 USD - Agencia",
       "gasto": 3177.76,
-      "fee": 5,
+      "fee": 8,
       "notas": null,
       "created_at": "2026-03-01T20:43:32.856286+00:00",
       "codigo": "G-M87W8AN9FG",
@@ -2265,7 +2265,7 @@
       "mes": "2026-02",
       "camp": "Jerson Artezano 19.0 USD - Agencia",
       "gasto": 3654.02,
-      "fee": 5,
+      "fee": 8,
       "notas": null,
       "created_at": "2026-03-01T20:43:05.738982+00:00",
       "codigo": "G-M87VNCYKME",
@@ -2279,7 +2279,7 @@
       "mes": "2026-02",
       "camp": "Jerson Artezano 29.0 USD - Agencia",
       "gasto": 3797.76,
-      "fee": 5,
+      "fee": 8,
       "notas": null,
       "created_at": "2026-03-01T20:42:40.543328+00:00",
       "codigo": "G-M87V3XYQMQ",
@@ -4502,6 +4502,126 @@
   ],
   "cobros": [
     {
+      "id": "f9fb4a89-6188-4470-bf11-4a67eee19a6c",
+      "gasto_id": null,
+      "monto": 7006,
+      "fecha": "2026-03-03",
+      "metodo": "BCP",
+      "notas": null,
+      "created_at": "2026-03-04T04:42:45.872809+00:00",
+      "created_by": "branlyn.lopez.r@gmail.com",
+      "hora": null,
+      "codigo": "C-MBJW86J645",
+      "comprobante_urls": [
+        "cobros/f9fb4a89-6188-4470-bf11-4a67eee19a6c/e58c16f1-5115-4775-8b52-9aaf8b199607.jpg"
+      ],
+      "client_id": "63bdf982-43b2-411f-9410-64af4e5a527b",
+      "periodo_resumen": "2026-02"
+    },
+    {
+      "id": "bbd786aa-75c8-48bd-a52f-f35489031f45",
+      "gasto_id": null,
+      "monto": 1940,
+      "fecha": "2026-03-03",
+      "metodo": "BCP",
+      "notas": "3.408 tipo de cambio",
+      "created_at": "2026-03-04T04:39:41.902546+00:00",
+      "created_by": "branlyn.lopez.r@gmail.com",
+      "hora": null,
+      "codigo": "C-MBJSA861T3",
+      "comprobante_urls": [
+        "cobros/bbd786aa-75c8-48bd-a52f-f35489031f45/fcd3bc11-a13a-4ab1-873e-6d68ac71c538.jpg"
+      ],
+      "client_id": "c1cbc591-faaf-42c0-9965-ff189bc83a28",
+      "periodo_resumen": "2026-02"
+    },
+    {
+      "id": "e1bc34d9-abfb-401a-87aa-98b08cc6444f",
+      "gasto_id": null,
+      "monto": 3932,
+      "fecha": "2026-03-03",
+      "metodo": "BCP",
+      "notas": "13231 soles tipo de cambio 3.3645",
+      "created_at": "2026-03-04T03:54:05.408748+00:00",
+      "created_by": "branlyn.lopez.r@gmail.com",
+      "hora": null,
+      "codigo": "C-MBI5LJHFLJ",
+      "comprobante_urls": [
+        "cobros/e1bc34d9-abfb-401a-87aa-98b08cc6444f/e12f8567-5a04-43d9-96cf-8f2227159411.jpg"
+      ],
+      "client_id": "63bdf982-43b2-411f-9410-64af4e5a527b",
+      "periodo_resumen": "2026-02"
+    },
+    {
+      "id": "12277735-c98e-4b2f-a413-d3f05334dbb3",
+      "gasto_id": null,
+      "monto": 7400,
+      "fecha": "2026-03-02",
+      "metodo": "Interbank",
+      "notas": null,
+      "created_at": "2026-03-04T03:48:04.093135+00:00",
+      "created_by": "branlyn.lopez.r@gmail.com",
+      "hora": null,
+      "codigo": "C-MBHXUXNQAG",
+      "comprobante_urls": [
+        "cobros/12277735-c98e-4b2f-a413-d3f05334dbb3/2be9f12b-1778-48d0-81f0-65fc53e9c43b.jpg"
+      ],
+      "client_id": "61bc8449-6b40-4cce-8cbf-3b925cdcc7b3",
+      "periodo_resumen": "2026-02"
+    },
+    {
+      "id": "8a4e4c19-c6b8-492f-ac62-8cfeade5d417",
+      "gasto_id": "8f66aad4-336a-4846-84e3-7627b3e49b71",
+      "monto": 428,
+      "fecha": "2026-03-03",
+      "metodo": "BCP",
+      "notas": "Pago en 2 partes 289 dolares y lo restante 139 de los 359 (el resto fue prepago recarga)",
+      "created_at": "2026-03-04T03:30:37.830058+00:00",
+      "created_by": "branlyn.lopez.r@gmail.com",
+      "hora": null,
+      "codigo": "C-MBHBFLUC98",
+      "comprobante_urls": [
+        "cobros/8a4e4c19-c6b8-492f-ac62-8cfeade5d417/6cea04ce-42c6-4890-871a-35a23df100f9.jpg",
+        "cobros/8a4e4c19-c6b8-492f-ac62-8cfeade5d417/d5f62277-053d-4b55-ab18-55d2882a745d.jpg"
+      ],
+      "client_id": null,
+      "periodo_resumen": null
+    },
+    {
+      "id": "913ea6ae-4c8e-412f-84d8-5721ebe6b510",
+      "gasto_id": null,
+      "monto": 9028,
+      "fecha": "2026-03-03",
+      "metodo": "BCP",
+      "notas": "30407 soles tipo de cambio 3.368",
+      "created_at": "2026-03-04T02:26:40.042901+00:00",
+      "created_by": "branlyn.lopez.r@gmail.com",
+      "hora": null,
+      "codigo": "C-MBF16EPQ1P",
+      "comprobante_urls": [
+        "cobros/913ea6ae-4c8e-412f-84d8-5721ebe6b510/554f4e0a-18b2-4e94-9329-8f1aa390407d.jpg"
+      ],
+      "client_id": "35b02fad-605f-4fe8-8e94-338e29664554",
+      "periodo_resumen": "2026-02"
+    },
+    {
+      "id": "c3dc43c7-eb90-41e4-8762-39592980544a",
+      "gasto_id": null,
+      "monto": 5868.5,
+      "fecha": "2026-03-03",
+      "metodo": "BCP",
+      "notas": "Pago 20mil soles tipo de cambio 3-3 sbs: 3.408 ",
+      "created_at": "2026-03-04T01:11:38.996287+00:00",
+      "created_by": "branlyn.lopez.r@gmail.com",
+      "hora": null,
+      "codigo": "C-MBCCPDYRXC",
+      "comprobante_urls": [
+        "cobros/c3dc43c7-eb90-41e4-8762-39592980544a/3888cdf6-9620-417e-b626-0724238985bb.jpg"
+      ],
+      "client_id": "8abc66bf-46e0-4712-ad48-178f5cef78e2",
+      "periodo_resumen": "2026-02"
+    },
+    {
       "id": "430ef513-643c-49cf-ac72-2ff93d6c9f6d",
       "gasto_id": "ab16bfaa-955c-4752-bfd8-3597c452043a",
       "monto": 395.96879999999965,
@@ -4515,7 +4635,8 @@
       "comprobante_urls": [
         "cobros/430ef513-643c-49cf-ac72-2ff93d6c9f6d/eee0104c-d92e-4672-a5a4-37895c66b2f6.jpg"
       ],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "7c6f2e62-dd56-4b14-9958-1a3285e5c8c7",
@@ -4531,7 +4652,8 @@
       "comprobante_urls": [
         "cobros/7c6f2e62-dd56-4b14-9958-1a3285e5c8c7/eb99443f-4cf4-4d60-9f5b-989244f03e41.jpg"
       ],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "6f327a2e-930f-4ce6-90c4-f3c895113cc0",
@@ -4547,7 +4669,8 @@
       "comprobante_urls": [
         "cobros/6f327a2e-930f-4ce6-90c4-f3c895113cc0/6e05287f-8bc9-40fd-829e-7fba408bdb68.jpg"
       ],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "8f85c79b-89bc-41b6-af97-1c5e415b57b6",
@@ -4563,7 +4686,8 @@
       "comprobante_urls": [
         "cobros/8f85c79b-89bc-41b6-af97-1c5e415b57b6/3800812f-6b5a-4ecc-a752-cf6e6e998061.jpg"
       ],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "22490210-aa6a-4a5a-b7a1-0e0661a95a66",
@@ -4579,7 +4703,8 @@
       "comprobante_urls": [
         "cobros/22490210-aa6a-4a5a-b7a1-0e0661a95a66/40bdeba9-7630-4580-896f-c7899c5cf4f1.jpg"
       ],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "cfb5e135-95c5-4df9-8460-4e45ca95c2ab",
@@ -4595,7 +4720,8 @@
       "comprobante_urls": [
         "cobros/cfb5e135-95c5-4df9-8460-4e45ca95c2ab/951444bc-1d7c-407c-bef9-929f7dff3234.jpg"
       ],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "8b51e423-cc1d-4004-877d-4e17a6b31373",
@@ -4609,7 +4735,8 @@
       "hora": null,
       "codigo": "C-LZQBCH8AIC",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "3ecffc24-6044-4501-8d18-bd72e150b8c1",
@@ -4623,7 +4750,8 @@
       "hora": null,
       "codigo": "C-LZQBC1GU46",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "d811206c-f3d3-47c7-a5b2-5935be7d91b0",
@@ -4637,7 +4765,8 @@
       "hora": null,
       "codigo": "C-LZQBBLMRNL",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "df9a7610-d2d4-4b77-9b77-da53d968e7f1",
@@ -4651,7 +4780,8 @@
       "hora": null,
       "codigo": "C-LZKYUJIEZX",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "ea68b42c-3005-4d18-ac04-628912e28669",
@@ -4665,7 +4795,8 @@
       "hora": null,
       "codigo": "C-LZKYTY7N58",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "db130d50-6481-4472-94d6-d51173c9ea42",
@@ -4679,7 +4810,8 @@
       "hora": null,
       "codigo": "C-LYBXRU0RV2",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "d7b26637-c496-4eef-b6e6-ac95a5a7a115",
@@ -4693,7 +4825,8 @@
       "hora": null,
       "codigo": "C-LYBXREJCRE",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "0d008c5f-d95e-4e38-b88d-5957f072af0c",
@@ -4707,7 +4840,8 @@
       "hora": null,
       "codigo": "C-LYBXQWVXOG",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "ba3b741e-50ae-4685-9578-acb25b406ba0",
@@ -4721,7 +4855,8 @@
       "hora": null,
       "codigo": "C-LYBXQ3V2G0",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "b27c3d27-593c-4dc5-bcf9-e50bb189bfbf",
@@ -4735,7 +4870,8 @@
       "hora": null,
       "codigo": "C-LYBX8CNQK6",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "642d8064-057b-4542-a464-2ef1507ca737",
@@ -4749,7 +4885,8 @@
       "hora": null,
       "codigo": "C-LYBX7TJTK7",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "7ef7fc69-337f-4890-833a-31d070bdb06a",
@@ -4763,7 +4900,8 @@
       "hora": null,
       "codigo": "C-LYBRVZMRZV",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "d14fc92e-5ea9-431f-9030-b863b55bc0f0",
@@ -4777,7 +4915,8 @@
       "hora": null,
       "codigo": "C-LYBRVJ6UYB",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "33dc1a90-e939-4b5f-8b6c-49f29b6e13de",
@@ -4791,7 +4930,8 @@
       "hora": null,
       "codigo": "C-LYBRV0IZE2",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "413aff89-3353-41e5-9732-ec5e2ba3b275",
@@ -4805,7 +4945,8 @@
       "hora": null,
       "codigo": "C-LYBOB5MBFT",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "511580a9-b78c-4f65-ac6f-b57aa3b69e2f",
@@ -4819,7 +4960,8 @@
       "hora": null,
       "codigo": "C-LYBOANDHEG",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "39208b26-029a-471a-9b09-c7cc1c76eaaa",
@@ -4833,7 +4975,8 @@
       "hora": null,
       "codigo": "C-LYBGXQQD5Y",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "11e078bc-2924-4ac2-9954-1331d3563f75",
@@ -4847,7 +4990,8 @@
       "hora": null,
       "codigo": "C-LYBGX8XR4F",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "24fce94c-f63c-4a92-8cfc-70c912a1bd3a",
@@ -4861,7 +5005,8 @@
       "hora": null,
       "codigo": "C-LYBGWN0IOZ",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "4bb5ca2a-26a9-4a13-8615-ce8de432683d",
@@ -4875,7 +5020,8 @@
       "hora": null,
       "codigo": "C-LY7B64HGPQ",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "3eca328d-8b15-4863-9a23-d4fc69f0641b",
@@ -4889,7 +5035,8 @@
       "hora": null,
       "codigo": "C-LY7B5PQ7XQ",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "373669f2-4603-4816-b935-7688712f65ef",
@@ -4903,7 +5050,8 @@
       "hora": null,
       "codigo": "C-LY7B5A3PHR",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "ba68d16f-8dd0-49ce-a6ed-2879f83021a2",
@@ -4917,7 +5065,8 @@
       "hora": null,
       "codigo": "C-LY7B4UQZ0H",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "ff6bf79e-5a58-402f-b6f0-f27fa2913375",
@@ -4931,7 +5080,8 @@
       "hora": null,
       "codigo": "C-LY7B4GPXEF",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "05024d5e-dd04-4bab-8e0d-84ab10df3c92",
@@ -4945,7 +5095,8 @@
       "hora": null,
       "codigo": "C-LY7B3Z6XLD",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "31c48043-8629-4799-b08f-4771ce10cc21",
@@ -4959,7 +5110,8 @@
       "hora": null,
       "codigo": "C-LY7B3ISPCG",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "d0a7edbe-727f-40d6-b377-d926e221e236",
@@ -4973,7 +5125,8 @@
       "hora": null,
       "codigo": "C-LY7B32TDCL",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "6a11cb2b-77b1-4d71-af24-8f9a21079b38",
@@ -4987,7 +5140,8 @@
       "hora": null,
       "codigo": "C-LY7B2OAX3M",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "3a46d8a1-9d33-4b3a-a52a-c15657e02555",
@@ -5001,7 +5155,8 @@
       "hora": null,
       "codigo": "C-LY7B29DE7U",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "998ae8ef-af24-4487-a9a3-f9419c18f121",
@@ -5015,7 +5170,8 @@
       "hora": null,
       "codigo": "C-LY7B1TIE7M",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "f3e33390-8b20-44d2-9727-a26a2f821272",
@@ -5029,7 +5185,8 @@
       "hora": null,
       "codigo": "C-LY7B1DVAQQ",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "693dddbd-2b0a-4737-8986-d138d358f249",
@@ -5043,7 +5200,8 @@
       "hora": null,
       "codigo": "C-LY7B0Y2BKR",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "26d1b2f4-aaf9-4696-9935-e0ab42681694",
@@ -5057,7 +5215,8 @@
       "hora": null,
       "codigo": "C-LY7B0IDOON",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "71ea1dc7-e84c-4497-89bd-9139586d7c8d",
@@ -5071,7 +5230,8 @@
       "hora": null,
       "codigo": "C-LY7AZTLU7T",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "0c4f78cd-40e5-49e6-a00c-fec7d24cab62",
@@ -5085,7 +5245,8 @@
       "hora": null,
       "codigo": "C-LY7AZCZAQT",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "62d011ea-d37b-4528-9497-d0001148b14d",
@@ -5099,7 +5260,8 @@
       "hora": null,
       "codigo": "C-LY7AYY3W7I",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "597ff2bf-f907-43f8-8d22-d8cf36951b96",
@@ -5113,7 +5275,8 @@
       "hora": null,
       "codigo": "C-LY7AYK4Q3M",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "4431d0a8-c99e-488d-87be-2ded1fe14aec",
@@ -5127,7 +5290,8 @@
       "hora": null,
       "codigo": "C-LY7AY6CHF1",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "6f586ac8-5a33-4f7d-a1ee-022aabe2d5e6",
@@ -5141,7 +5305,8 @@
       "hora": null,
       "codigo": "C-LY7AXQDAL6",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "72e86846-fd8c-4ae5-9c9d-e3e2a4a59c94",
@@ -5155,7 +5320,8 @@
       "hora": null,
       "codigo": "C-LY7AX9I0BV",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "efb5c39b-a48b-4dcb-8ffc-45409b3a797e",
@@ -5169,7 +5335,8 @@
       "hora": null,
       "codigo": "C-LY7AWU2JX3",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "d070b841-4caf-4b53-90e6-fd6f3f3badcf",
@@ -5183,7 +5350,8 @@
       "hora": null,
       "codigo": "C-LY7AWDOMUD",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "d72bbe8a-c64f-4689-b575-1c00a8b26712",
@@ -5197,7 +5365,8 @@
       "hora": null,
       "codigo": "C-LY7AVWC1VY",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "c0cbaf24-0783-4b63-8491-95bff52483ac",
@@ -5211,7 +5380,8 @@
       "hora": null,
       "codigo": "C-LY77YMKMF5",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "ec44c382-1953-4ddc-b870-65324d4fab00",
@@ -5225,7 +5395,8 @@
       "hora": null,
       "codigo": "C-LY77Y80WR2",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "19041b45-c38c-4d74-b951-ef46b72d5a94",
@@ -5239,7 +5410,8 @@
       "hora": null,
       "codigo": "C-LY77XTNOP8",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "f5672d94-f686-4111-8028-610a83ee251b",
@@ -5253,7 +5425,8 @@
       "hora": null,
       "codigo": "C-LY77XBNCCL",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "ba50c255-4c67-41f9-bb93-a4b4a7fb27dd",
@@ -5267,7 +5440,8 @@
       "hora": null,
       "codigo": "C-LY77WVS9U5",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "b782732f-77ca-495e-b5ba-7449c74685db",
@@ -5281,7 +5455,8 @@
       "hora": null,
       "codigo": "C-LY77WGNL8U",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "ccff19aa-21f5-44b6-88b9-4233fe466b5d",
@@ -5295,7 +5470,8 @@
       "hora": null,
       "codigo": "C-LY77W1RHTK",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "e2ff72e5-5a37-4516-9443-b0463426e459",
@@ -5309,7 +5485,8 @@
       "hora": null,
       "codigo": "C-LY77VMYZSV",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "5806c9d8-5fbb-44cb-9509-c53c48f73896",
@@ -5323,7 +5500,8 @@
       "hora": null,
       "codigo": "C-LY77V8QXIP",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "578a4fde-27c2-4a84-b8bf-998eee097df7",
@@ -5337,7 +5515,8 @@
       "hora": null,
       "codigo": "C-LY77UUFAH9",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "18e4ba3f-01a4-4a32-8686-374c0b9ffdc0",
@@ -5351,7 +5530,8 @@
       "hora": null,
       "codigo": "C-LY77UFJL1I",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "53e5738f-2198-4478-bb35-b7b7774fe1ac",
@@ -5365,7 +5545,8 @@
       "hora": null,
       "codigo": "C-LY77U0AN14",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "53978510-ca14-44f7-997f-22e48a073b9f",
@@ -5379,7 +5560,8 @@
       "hora": null,
       "codigo": "C-LY77TL9MD0",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "e2dc11b8-899b-4a77-807b-35ae62b194d2",
@@ -5393,7 +5575,8 @@
       "hora": null,
       "codigo": "C-LY77T6N9P1",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "bae7aa31-e86a-468e-aee5-ca233e19451a",
@@ -5407,7 +5590,8 @@
       "hora": null,
       "codigo": "C-LY77SPRYSR",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "be2f2c32-cf19-4d79-9662-43a1389ad9e3",
@@ -5421,7 +5605,8 @@
       "hora": null,
       "codigo": "C-LY77S9J7UO",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "64d12034-15cc-4f89-bff2-50c7fec5ff15",
@@ -5435,7 +5620,8 @@
       "hora": null,
       "codigo": "C-LY77RTEK3I",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "77d4f175-8c84-4343-9beb-8bb0d82686c0",
@@ -5449,7 +5635,8 @@
       "hora": null,
       "codigo": "C-LY77RCWUTV",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "ae44a436-df99-413a-bb50-1331492fde8a",
@@ -5463,7 +5650,8 @@
       "hora": null,
       "codigo": "C-LY77QWFA3F",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "9fe9e930-778c-4ed2-adfb-7e1243e54617",
@@ -5477,7 +5665,8 @@
       "hora": null,
       "codigo": "C-LY77QGTV2L",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "edb2ad09-9004-4632-8041-fdf5886cf6d0",
@@ -5491,7 +5680,8 @@
       "hora": null,
       "codigo": "C-LY77Q1Z0DR",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "31097733-74ee-4ce0-9739-f76b55cecd49",
@@ -5505,7 +5695,8 @@
       "hora": null,
       "codigo": "C-LY77PN3TO0",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "1e808f4b-0d8e-412e-91ce-de2f0a44ecee",
@@ -5519,7 +5710,8 @@
       "hora": null,
       "codigo": "C-LY77P4JOYL",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "2878f3d3-3cfa-4d7d-a275-eb73d41f9a34",
@@ -5533,7 +5725,8 @@
       "hora": null,
       "codigo": "C-LY77ODG5D8",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "f85c03d5-c789-4fdf-a237-861ab65cdacc",
@@ -5547,7 +5740,8 @@
       "hora": null,
       "codigo": "C-LY57JK6ID6",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "7e01b26b-8842-4b9f-b1b6-f9f76c3660eb",
@@ -5561,7 +5755,8 @@
       "hora": null,
       "codigo": "C-LY57J2TA2B",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "6374e038-aa73-400b-955c-ef960e678aeb",
@@ -5575,7 +5770,8 @@
       "hora": null,
       "codigo": "C-LY57INLA0L",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "2115906a-bed4-4ce7-b5ad-e29272d88af6",
@@ -5589,7 +5785,8 @@
       "hora": null,
       "codigo": "C-LY57I8HSE8",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "42300ac7-f9ad-4eea-916d-e0fdf479eeaf",
@@ -5603,7 +5800,8 @@
       "hora": null,
       "codigo": "C-LY57HR2NIT",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "53c5860a-fdf4-4be0-84fb-d9937a26c614",
@@ -5621,7 +5819,8 @@
         "cobros/53c5860a-fdf4-4be0-84fb-d9937a26c614/f74bfb8c-eada-4d60-a4bb-d668e1250b46.jpg",
         "cobros/53c5860a-fdf4-4be0-84fb-d9937a26c614/99cef5b5-4598-40fe-9a11-9a65608ae82b.jpg"
       ],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "34b3ff10-9222-4d73-a192-fe750dc1613f",
@@ -5639,7 +5838,8 @@
         "cobros/34b3ff10-9222-4d73-a192-fe750dc1613f/2966c08b-6a95-44a3-822e-319e431528e4.jpg",
         "cobros/34b3ff10-9222-4d73-a192-fe750dc1613f/d0395575-ffb2-4efe-8538-c913e2fdaec1.jpg"
       ],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "69fd7882-ee4b-40c0-924b-9e020e79802e",
@@ -5653,7 +5853,8 @@
       "hora": null,
       "codigo": "C-LY4PNDIE79",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "6bc6c4c8-e592-41b3-aba1-cc1a33b1c2a4",
@@ -5667,7 +5868,8 @@
       "hora": null,
       "codigo": "C-LY4PMXBU8Z",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "3ef75498-e42f-41e8-be9e-41b6d2122a46",
@@ -5681,7 +5883,8 @@
       "hora": null,
       "codigo": "C-LY4PMGEF4E",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "5a94031e-0f0a-4004-8dcc-87cbe68396b2",
@@ -5695,7 +5898,8 @@
       "hora": null,
       "codigo": "C-LY4PM1ZSP3",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "979eee14-04a5-4e2a-b9fe-6dc5336975aa",
@@ -5709,7 +5913,8 @@
       "hora": null,
       "codigo": "C-LY4PLN90M5",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "5be7b589-442e-4879-bea1-5102180eb503",
@@ -5723,7 +5928,8 @@
       "hora": null,
       "codigo": "C-LY4PL68Q9U",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "55509726-cab4-4571-a782-f9adc1c3b9d4",
@@ -5737,7 +5943,8 @@
       "hora": null,
       "codigo": "C-LY4OQYUG0G",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "f692522e-acae-4f04-a6fd-870fb42ca0f9",
@@ -5751,7 +5958,8 @@
       "hora": null,
       "codigo": "C-LY4OQK0CIX",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "3270a04e-30c1-4545-869c-e8a028dd6e6d",
@@ -5765,7 +5973,8 @@
       "hora": null,
       "codigo": "C-LY4OQ3GKHV",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "0723aa91-5569-4af5-841c-9515ffbf3126",
@@ -5781,7 +5990,8 @@
       "comprobante_urls": [
         "cobros/0723aa91-5569-4af5-841c-9515ffbf3126/1840d52e-82fd-4dbb-b53d-7b204715576a.jpg"
       ],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "1284f032-5d92-4f94-a83d-2e760c9008c4",
@@ -5795,7 +6005,8 @@
       "hora": null,
       "codigo": "C-LY3BUL6329",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "b7fb8789-6fc6-4c83-badb-01e3a62f0c15",
@@ -5809,7 +6020,8 @@
       "hora": null,
       "codigo": "C-LY3BU4QUUF",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "6278ccad-890c-401f-9cd0-dc7aa8a9313c",
@@ -5823,7 +6035,8 @@
       "hora": null,
       "codigo": "C-LY3BTOR5AQ",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "589f7549-0ebe-43aa-adc1-c55ead4cea51",
@@ -5837,7 +6050,8 @@
       "hora": null,
       "codigo": "C-LY3BT60II3",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "f5ce13b2-ee45-4c8d-9e1f-941c37cf80fe",
@@ -5851,7 +6065,8 @@
       "hora": null,
       "codigo": "C-LY3A230VK0",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "d7b27a99-fc5f-4191-bd51-7bb5ae9980c5",
@@ -5865,7 +6080,8 @@
       "hora": null,
       "codigo": "C-LY3A1O6URE",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "bbc2aeb6-5135-4b59-b93f-c3cbfa1f849b",
@@ -5879,7 +6095,8 @@
       "hora": null,
       "codigo": "C-LY3A18L0TB",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "ef0336ee-5f7c-4bfd-9554-c55e14f0edff",
@@ -5893,7 +6110,8 @@
       "hora": null,
       "codigo": "C-LY3A0SG44O",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "333968b0-4e25-4d1e-9417-a5ca98479974",
@@ -5907,7 +6125,8 @@
       "hora": null,
       "codigo": "C-LY3A0CPFJ8",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "f36606ba-25d7-49b2-b6d1-94f7a073418a",
@@ -5921,7 +6140,8 @@
       "hora": null,
       "codigo": "C-LY39ZX9U31",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "949a865f-d7f1-4677-8d2b-fbf7303698c1",
@@ -5935,7 +6155,8 @@
       "hora": null,
       "codigo": "C-LY39ZHB5Q0",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "194640a4-d4da-4533-8e52-8c567ea61c11",
@@ -5949,7 +6170,8 @@
       "hora": null,
       "codigo": "C-LY39YSB8CA",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "d4882813-837d-43ab-b5d5-a823dab151af",
@@ -5963,7 +6185,8 @@
       "hora": null,
       "codigo": "C-LY2S6NKT0R",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "5ded6bb1-90bb-41c7-b40c-ae17e4ddd322",
@@ -5977,7 +6200,8 @@
       "hora": null,
       "codigo": "C-LY2S692QPV",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "3b4729ce-a5e6-493b-a270-db93eff0b1f7",
@@ -5991,7 +6215,8 @@
       "hora": null,
       "codigo": "C-LY2S5VP5MC",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "7254ed3f-c525-47ec-b98c-3e5f1dabc455",
@@ -6005,7 +6230,8 @@
       "hora": null,
       "codigo": "C-LY2S5ILY18",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "faec3307-984b-4f1b-9adf-ddfb05a253a8",
@@ -6019,7 +6245,8 @@
       "hora": null,
       "codigo": "C-LY2S53Q2N1",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "29788eca-de5b-42ef-8e0e-bad8dbd9000f",
@@ -6033,7 +6260,8 @@
       "hora": null,
       "codigo": "C-LY2S4OYVLC",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "b51b6746-ea53-4e54-885b-6e25934e09c0",
@@ -6047,7 +6275,8 @@
       "hora": null,
       "codigo": "C-LY2S4AS510",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "787bc3a1-7085-4a09-9ffd-efeaf58c7c31",
@@ -6061,7 +6290,8 @@
       "hora": null,
       "codigo": "C-LY2S3W9Z4F",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "40ef63a0-81ef-49ff-a999-814f92567e32",
@@ -6075,7 +6305,8 @@
       "hora": null,
       "codigo": "C-LY2S3BY5W5",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "7098f600-54c8-4b3f-ba3f-4f99e78f58f0",
@@ -6089,7 +6320,8 @@
       "hora": null,
       "codigo": "C-LY2LERXNAH",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "34905353-2b48-4b6c-bf2c-78f69644359e",
@@ -6103,7 +6335,8 @@
       "hora": null,
       "codigo": "C-LY2LEBGA7W",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "1c02f2fd-255a-4048-9278-15e8882187c5",
@@ -6117,7 +6350,8 @@
       "hora": null,
       "codigo": "C-LY2LDTMIRO",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "2f2c869c-54e2-4671-8480-31f8dbf8a291",
@@ -6131,7 +6365,8 @@
       "hora": null,
       "codigo": "C-LY2KBN0Q4E",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "ee4a1809-6354-4279-9688-44c7b97e1d7e",
@@ -6145,7 +6380,8 @@
       "hora": null,
       "codigo": "C-LY2KAZFHCW",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "5afad197-36d9-4e38-a00b-25bb04e42542",
@@ -6159,7 +6395,8 @@
       "hora": null,
       "codigo": "C-LY2EAIPK5A",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "ce502c28-5329-4fe1-ad21-15160be42230",
@@ -6175,7 +6412,8 @@
       "comprobante_urls": [
         "cobros/ce502c28-5329-4fe1-ad21-15160be42230/2c14a95b-0afe-4e4b-88e7-ada22f7b2d7f.jpg"
       ],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "a1ba9ea2-5f0b-4798-b13b-549c4becfcbe",
@@ -6191,7 +6429,8 @@
       "comprobante_urls": [
         "cobros/a1ba9ea2-5f0b-4798-b13b-549c4becfcbe/42fb5ab0-ea26-4eda-b7a9-19f4d868aa7b.jpg"
       ],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "462c4e82-813b-4eff-9726-93f26fb3d65f",
@@ -6205,7 +6444,8 @@
       "hora": null,
       "codigo": "C-LY0XL2OLFL",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "5f67b9fe-5cf7-4667-ae25-8b7bf74c39fa",
@@ -6219,7 +6459,8 @@
       "hora": null,
       "codigo": "C-LY0XK8LU9R",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "f8327a3b-270e-48ab-bb71-6b81a265806e",
@@ -6233,7 +6474,8 @@
       "hora": null,
       "codigo": "C-LXZUF2N7Z7",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "33fa2c1d-9650-4f54-bc82-ca2e9ba4fdde",
@@ -6247,7 +6489,8 @@
       "hora": null,
       "codigo": "C-LXZBXQZMG4",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "35ed66d8-ae83-4bd4-b05c-82165d5f909e",
@@ -6261,7 +6504,8 @@
       "hora": null,
       "codigo": "C-LXZ1JBRW7D",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "c9ac0ae9-4a03-480a-8937-b97e9fcf39f1",
@@ -6275,7 +6519,8 @@
       "hora": null,
       "codigo": "C-LXZ1ISF1YI",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "2b08c805-0e3e-4114-aca2-50a635aed122",
@@ -6289,7 +6534,8 @@
       "hora": null,
       "codigo": "C-LXXUC63TMC",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "4bbed323-7db5-44f7-85e0-c0bb9c529f67",
@@ -6303,7 +6549,8 @@
       "hora": null,
       "codigo": "C-LXXUBRBLH5",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "7755a749-46e1-4dfa-92dc-bfb637494f51",
@@ -6317,7 +6564,8 @@
       "hora": null,
       "codigo": "C-LXXUBBTLTY",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "c710face-9bfd-4c63-ae5f-c79327634d63",
@@ -6331,7 +6579,8 @@
       "hora": null,
       "codigo": "C-LXXUAIZP7S",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "a0cee905-c00d-4a8f-abf2-ae992a8473ae",
@@ -6345,7 +6594,8 @@
       "hora": null,
       "codigo": "C-LXXNTL0BKP",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "80430143-f1ca-4fc5-924e-ed74aad54585",
@@ -6359,7 +6609,8 @@
       "hora": null,
       "codigo": "C-LXXNT5B618",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "f15c113e-51e0-40de-8b25-a31f80c5697a",
@@ -6373,7 +6624,8 @@
       "hora": null,
       "codigo": "C-LXXNSRMPEM",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "9cd5ed77-d63a-4ba9-999f-11229bb6fc30",
@@ -6387,7 +6639,8 @@
       "hora": null,
       "codigo": "C-LXXNSCXIZA",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "04165b18-c4ee-424d-8aed-0fdfd98b3e49",
@@ -6401,7 +6654,8 @@
       "hora": null,
       "codigo": "C-LXXNRW4XAS",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "a0faf759-b1e8-4888-93a5-27605c8e2c4c",
@@ -6415,7 +6669,8 @@
       "hora": null,
       "codigo": "C-LXXNRDTRK9",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "080fc72d-509f-4cfa-8802-73862dd69608",
@@ -6429,7 +6684,8 @@
       "hora": null,
       "codigo": "C-LXXNQUYFRB",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     },
     {
       "id": "88e125f0-b3c3-4992-a8eb-1f1bcf128efe",
@@ -6443,7 +6699,8 @@
       "hora": null,
       "codigo": "C-LV8GHQ1RBR",
       "comprobante_urls": [],
-      "client_id": null
+      "client_id": null,
+      "periodo_resumen": null
     }
   ],
   "garantias": [
