@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2026-03-05T07:02:24.685Z",
+  "exportedAt": "2026-03-06T07:00:36.099Z",
   "gerentes": [
     {
       "id": "05d15b48-c8b2-443d-b02b-863b5daf9e37",
@@ -4586,6 +4586,122 @@
   ],
   "cobros": [
     {
+      "id": "a858451a-6c8d-4210-abca-93d1dd39757a",
+      "gasto_id": null,
+      "monto": 121.78,
+      "fecha": "2026-02-05",
+      "metodo": "BCP",
+      "notas": "3.432 tipo de cambio / 05/03/2026",
+      "created_at": "2026-03-06T03:06:58.257066+00:00",
+      "created_by": "branlyn.lopez.r@gmail.com",
+      "hora": null,
+      "codigo": "C-MEBCPA2OID",
+      "comprobante_urls": [
+        "cobros/a858451a-6c8d-4210-abca-93d1dd39757a/927d25de-1a57-4cf6-be33-5889b36046fb.jpg"
+      ],
+      "client_id": "aee4f2ed-fa1d-45c1-8a80-9ba94110afab",
+      "periodo_resumen": "2026-02"
+    },
+    {
+      "id": "6d7d49b1-8852-4b0c-b115-2e7c4aae1ec2",
+      "gasto_id": null,
+      "monto": 2826,
+      "fecha": "2026-03-03",
+      "metodo": "BCP",
+      "notas": "3.432 tipo de cambio / 03-03-2026",
+      "created_at": "2026-03-06T03:00:51.218302+00:00",
+      "created_by": "branlyn.lopez.r@gmail.com",
+      "hora": null,
+      "codigo": "C-MEB4U3F588",
+      "comprobante_urls": [
+        "cobros/6d7d49b1-8852-4b0c-b115-2e7c4aae1ec2/f77930a9-3952-4b67-85fa-8e30acd9bcc6.jpg"
+      ],
+      "client_id": "c58831c7-e58a-43ea-9bd8-00499d0aa78f",
+      "periodo_resumen": "2026-02"
+    },
+    {
+      "id": "d533c7fb-fb71-4112-b434-d5c92888df53",
+      "gasto_id": null,
+      "monto": 7300,
+      "fecha": "2026-03-05",
+      "metodo": "Interbank",
+      "notas": null,
+      "created_at": "2026-03-06T02:55:36.041579+00:00",
+      "created_by": "branlyn.lopez.r@gmail.com",
+      "hora": null,
+      "codigo": "C-MEAY2XGS37",
+      "comprobante_urls": [
+        "cobros/d533c7fb-fb71-4112-b434-d5c92888df53/ae1b28d3-76a8-4bba-8efe-91e4c89fa26e.jpg"
+      ],
+      "client_id": "61bc8449-6b40-4cce-8cbf-3b925cdcc7b3",
+      "periodo_resumen": "2026-02"
+    },
+    {
+      "id": "0935e6d8-51d6-487a-9f33-f77e82189f02",
+      "gasto_id": "4cd076da-974a-45b4-b1d1-f48dc4ac3d2e",
+      "monto": 44.891000000000005,
+      "fecha": "2026-03-04",
+      "metodo": "Stripe",
+      "notas": "3.432 tipo de cambio / 05-03-2026",
+      "created_at": "2026-03-06T02:53:46.935775+00:00",
+      "created_by": "branlyn.lopez.r@gmail.com",
+      "hora": null,
+      "codigo": "C-MEAVQP9OV9",
+      "comprobante_urls": [],
+      "client_id": null,
+      "periodo_resumen": null
+    },
+    {
+      "id": "42afc320-e1a8-44cf-9d1d-a575a3597ffb",
+      "gasto_id": null,
+      "monto": 376,
+      "fecha": "2026-03-05",
+      "metodo": "BCP",
+      "notas": null,
+      "created_at": "2026-03-06T02:12:16.445167+00:00",
+      "created_by": "branlyn.lopez.r@gmail.com",
+      "hora": null,
+      "codigo": "C-ME9ED0R5W9",
+      "comprobante_urls": [
+        "cobros/42afc320-e1a8-44cf-9d1d-a575a3597ffb/f6bfc094-0a6e-46da-b4f7-d6919730f474.jpg",
+        "cobros/42afc320-e1a8-44cf-9d1d-a575a3597ffb/d14321a1-0cf4-4b09-80cc-c94774807724.jpg"
+      ],
+      "client_id": "2680a422-c4cd-4739-94bc-1381e1dbdc83",
+      "periodo_resumen": "2026-02"
+    },
+    {
+      "id": "315e0286-6461-4fbc-a4d0-a905a0faf64c",
+      "gasto_id": null,
+      "monto": 478.08,
+      "fecha": "2026-03-05",
+      "metodo": "BCP",
+      "notas": null,
+      "created_at": "2026-03-06T00:51:41.637173+00:00",
+      "created_by": "branlyn.lopez.r@gmail.com",
+      "hora": null,
+      "codigo": "C-ME6IQHT84L",
+      "comprobante_urls": [
+        "cobros/315e0286-6461-4fbc-a4d0-a905a0faf64c/68a1ee22-f650-444e-a4cb-ab5d5a3153c9.jpg"
+      ],
+      "client_id": "c9367539-0db7-42ec-bd0e-421d2efbf0d4",
+      "periodo_resumen": "2026-02"
+    },
+    {
+      "id": "c4913294-3c84-4a94-a2f0-568fcd5f5800",
+      "gasto_id": "460049ea-02ac-4c79-bf31-ec765929bac5",
+      "monto": 1549,
+      "fecha": "2026-03-05",
+      "metodo": "BCP",
+      "notas": null,
+      "created_at": "2026-03-05T19:46:40.944549+00:00",
+      "created_by": "sebasnodeal@gmail.com",
+      "hora": null,
+      "codigo": "C-MDVMIKFPG0",
+      "comprobante_urls": [],
+      "client_id": null,
+      "periodo_resumen": null
+    },
+    {
       "id": "cff0b9d6-cd21-4379-89b8-8dd5b825bcf8",
       "gasto_id": null,
       "monto": 949,
@@ -7208,6 +7324,64 @@
     }
   ],
   "garantias": [
+    {
+      "id": "263b7639-31cd-4a44-95b8-d9c0c0d39651",
+      "client_id": "583f3ab8-508a-4a5c-9496-746afb9432cb",
+      "tipo": "Cuenta TikTok",
+      "descripcion": null,
+      "valor": 200,
+      "estado": "Vigente",
+      "created_at": "2026-03-06T03:24:19.771817+00:00",
+      "gasto_id": null,
+      "codigo_verificacion": "GV-MEBZ0WA9SP",
+      "imagen_urls": [
+        "garantias/263b7639-31cd-4a44-95b8-d9c0c0d39651/0abb809c-edc7-44ee-bf45-32c647330582.jpg"
+      ],
+      "fecha_colocacion": "2026-03-05",
+      "created_by": "branlyn.lopez.r@gmail.com"
+    },
+    {
+      "id": "0f0fa062-d56b-4f55-8ab0-3738f73ea20d",
+      "client_id": "6aa4bf51-2b1c-4df1-be2b-8c15af21829e",
+      "tipo": "Depósito",
+      "descripcion": "Excedente de cobro 2026-03-04 — para mes siguiente",
+      "valor": 4.008999999999993,
+      "estado": "Vigente",
+      "created_at": "2026-03-06T02:53:48.347104+00:00",
+      "gasto_id": null,
+      "codigo_verificacion": "GV-MEAVREXC1B",
+      "imagen_urls": [],
+      "fecha_colocacion": "2026-03-04",
+      "created_by": "branlyn.lopez.r@gmail.com"
+    },
+    {
+      "id": "aa73e6b2-8248-49e5-ac1f-e2a57f3dd6af",
+      "client_id": "c58831c7-e58a-43ea-9bd8-00499d0aa78f",
+      "tipo": "Depósito",
+      "descripcion": "Excedente de cobro 2026-03-05 — para mes siguiente",
+      "valor": 0.3779999999997017,
+      "estado": "Vigente",
+      "created_at": "2026-03-05T20:15:24.093399+00:00",
+      "gasto_id": null,
+      "codigo_verificacion": "GV-MDWNGCYP2A",
+      "imagen_urls": [],
+      "fecha_colocacion": "2026-03-05",
+      "created_by": "sebasnodeal@gmail.com"
+    },
+    {
+      "id": "3abcd027-f104-433e-9f2a-c960187aa7ef",
+      "client_id": "c58831c7-e58a-43ea-9bd8-00499d0aa78f",
+      "tipo": "Depósito",
+      "descripcion": "Excedente de cobro 2026-03-05 — para mes siguiente",
+      "valor": 4.547473508864641e-13,
+      "estado": "Vigente",
+      "created_at": "2026-03-05T20:13:21.091872+00:00",
+      "gasto_id": null,
+      "codigo_verificacion": "GV-MDWKTDLIZ7",
+      "imagen_urls": [],
+      "fecha_colocacion": "2026-03-05",
+      "created_by": "sebasnodeal@gmail.com"
+    },
     {
       "id": "96e55c52-0c83-470e-b506-0765d4cc9003",
       "client_id": "57e3d362-37f9-40e2-932b-ee1cd637ec92",
